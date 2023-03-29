@@ -1,6 +1,6 @@
-This file is the baseline code for DIGIX2021 Video Recommendation Track Based on Multi-objective Optimization 
+This file is the baseline code for Daguan Cup - NLP - Text Processing
 
-以上文件是DIGIX2021 Video Recommendation Track Based on Multi-objective Optimization （基于多目标的视频推荐赛道）比赛的baseline代码
+以上文件是Daguan Cup - NLP - Text Processing （达观杯-Nlp-文本处理）比赛的baseline代码
 
 ⭐Please star to download the file
 
